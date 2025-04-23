@@ -5,15 +5,6 @@
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AchrafELGhazi.AchrafELGhazi)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achrafelghazi/)
   
-  ```
-  while(alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-  }
-  ```
-
 </div>
 
 ## 🤔 WHO IS THIS MYSTERIOUS DEVELOPER?
