@@ -1,5 +1,4 @@
-# 🚀 WELCOME TO THE DIGITAL LAIR OF ACHRAF EL GHAZI 🚀
-
+# WELCOME TO THE DIGITAL LAIR OF ACHRAF EL GHAZI
 <div align="center">
   
   ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AchrafELGhazi.AchrafELGhazi)
