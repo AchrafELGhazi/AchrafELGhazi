@@ -23,16 +23,6 @@ const achraf = {
 };
 ```
 
-## 🎯 MISSION OBJECTIVES
-
-- 🌱 Evolving from a code monkey to a code gorilla
-- 💞️ Seeking brave souls to collaborate on:
-  - App development that doesn't make users cry
-  - Student engagement platforms (because Zoom University needs help)
-  - Tech solutions so innovative that even my grandma would say "wow"
-- 🧠 Turning caffeine into code with frightening efficiency
-
-
 ## 📫 SUMMON ME
 
 - 📧 Email: a.elghazi@aui.ma
