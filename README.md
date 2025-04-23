@@ -41,14 +41,6 @@ const achraf = {
   - Tech solutions so innovative that even my grandma would say "wow"
 - 🧠 Turning caffeine into code with frightening efficiency
 
-## 📊 MY GITHUB STATS (WHERE MAGIC HAPPENS)
-
-<div align="center">
-  
-![Achraf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AchrafELGhazi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AchrafELGhazi&layout=compact&theme=radical)
-
-</div>
 
 ## 📫 SUMMON ME
 
