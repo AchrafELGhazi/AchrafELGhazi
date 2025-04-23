@@ -24,7 +24,7 @@ Greetings, earthlings! 👽 I'm **Achraf El Ghazi**, a sophomore computer scienc
 
 ```
 const achraf = {
-  languages: ['JavaScript', 'Python', 'Java', 'C++', 'HTML/CSS'],
+  languages: ['Typescript', 'Python', 'Java', 'C', 'idk what else'],
   currentlyLearning: '404_BRAIN_CAPACITY_FULL',
   caffeineTolerance: Number.MAX_SAFE_INTEGER,
   debuggingStyle: 'Talk to rubber duck until solution appears',
