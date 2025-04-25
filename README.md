@@ -35,13 +35,6 @@ const achraf = {
 - I have a special keyboard key that types "stackoverflow.com" in one press
 - I believe tabs are superior to spaces (or do I? Let's fight about it)
 
-<div align="center">
-  
-  ### "In code we trust, for bugs we must adjust."
-  
-  ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-  
-</div>
 
 ---
 
