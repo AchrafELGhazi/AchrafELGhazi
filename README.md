@@ -1,7 +1,6 @@
 # WELCOME TO THE DIGITAL LAIR OF ACHRAF EL GHAZI
 <div align="center">
   
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=AchrafELGhazi.AchrafELGhazi)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achrafelghazi/)
   
 </div>
