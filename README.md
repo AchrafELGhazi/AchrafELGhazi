@@ -1,7 +1,7 @@
 # WELCOME TO THE DIGITAL LAIR OF ACHRAF EL GHAZI
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achrafelghazi/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achraf-el-ghazi-16b8bb2a7/)
   
 </div>
 
