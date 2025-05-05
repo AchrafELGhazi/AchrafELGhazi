@@ -1,25 +1,11 @@
 # WELCOME TO THE DIGITAL LAIR OF ACHRAF EL GHAZI
 <div align="center">
-  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/achraf-el-ghazi-16b8bb2a7/)
-  
 </div>
 
 ## 🤔 WHO IS THIS MYSTERIOUS DEVELOPER?
 
 Greetings, earthlings! 👽 I'm **Achraf El Ghazi**, a sophomore computer science student by day and a code-slinging ninja at **neoCedrus** by night! My keyboard has more fingerprints than a crime scene, and my GitHub has more commits than I have cups of coffee (and that's saying something).
-
-## 💻 TECH SUPERPOWERS
-
-```
-const achraf = {
-  languages: ['Typescript', 'Python', 'Java', 'C', 'idk what else'],
-  currentlyLearning: '404_BRAIN_CAPACITY_FULL',
-  caffeineTolerance: Number.MAX_SAFE_INTEGER,
-  debuggingStyle: 'Talk to rubber duck until solution appears',
-  favoriteEditor: 'The one that works today'
-};
-```
 
 ## 📫 SUMMON ME
 
