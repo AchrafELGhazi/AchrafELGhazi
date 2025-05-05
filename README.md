@@ -1,6 +1,4 @@
 # WELCOME TO THE DIGITAL LAIR OF ACHRAF EL GHAZI
-## 🤔 WHO IS THIS MYSTERIOUS DEVELOPER?
-
 Greetings, earthlings! 👽 I'm **Achraf El Ghazi**, a sophomore computer science student by day and a code-slinging ninja at **neoCedrus** by night! My keyboard has more fingerprints than a crime scene, and my GitHub has more commits than I have cups of coffee (and that's saying something).
 
 ## 📫 SUMMON ME
